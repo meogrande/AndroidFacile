@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Android Facile</string>
+    <string name="premi_qui">Premi qui</string>
+    <string name="testo_iniziale">Ciao Mondo!</string>
 </resources>

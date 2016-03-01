@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Easy Android</string>
+    <string name="premi_qui">Press here</string>
+    <string name="testo_iniziale">Hello World!</string>
+</resources>
